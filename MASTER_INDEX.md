@@ -1,7 +1,3 @@
-# Índice de Referências — TCC UFES (link único)
-
-> Todos os links abaixo são diretos (RAW). Se algum 404 aparecer, é só ajustar o nome do arquivo exatamente como está no repositório.
-
 ## Normas / Modelos
 - 00_UFES_MODEL — https://raw.githubusercontent.com/caiozouain/tcc-refs/main/00_UFES_MODEL.pdf
 - 01_NOTA10_COMPARATIVO — https://raw.githubusercontent.com/caiozouain/tcc-refs/main/01_NOTA10_COMPARATIVO.pdf
@@ -18,7 +14,7 @@
 - 09_BRITTO_1991_MANUAL — https://raw.githubusercontent.com/caiozouain/tcc-refs/main/09_BRITTO_1991_MANUAL.pdf
 
 ## Artigos (clássicos + recentes)
-- 03_DUNCANETAL_1980 — https://raw.githubusercontent.com/caiozouain/tcc-refs/main/03_DUNCANETAL_1980.pdf   <!-- se o seu arquivo tiver vírgula/ponto antes de 1980, ajuste -->
+- 03_DUNCANETAL_1980 — https://raw.githubusercontent.com/caiozouain/tcc-refs/main/03_DUNCANETAL_1980.pdf
 - 10_EHRLICH_2021 — https://raw.githubusercontent.com/caiozouain/tcc-refs/main/10_EHRLICH_2021.pdf
 - 11_LIU_2015 — https://raw.githubusercontent.com/caiozouain/tcc-refs/main/11_LIU_2015.pdf
 - 12_JURANETAL_1988 — https://raw.githubusercontent.com/caiozouain/tcc-refs/main/12_JURANETAL_1988.pdf
